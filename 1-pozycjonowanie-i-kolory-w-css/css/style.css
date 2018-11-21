@@ -1,0 +1,12 @@
+#czerwony {
+    height:100px;
+    width:100px;
+    position:relative;
+    background-color: red;
+}
+#niebieski {
+    height:100px;
+    width:100px;
+    position:relative;
+    background-color: blue;
+}
